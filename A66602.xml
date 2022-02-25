@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vanity and falsity of the history of passive obedience detected Wherein is briefly demonstrated, that the first reformers were far from maintaining it in the author of that history and his party's sence. As also it is plainly evinced that it cannot be deduced from the homilies, articles, injunctions or canons, liturgy and bishops of the primitive English Church. And all the specious pretences he makes for it are fully answered. By Tim. Wilson, M.A. and rector of the Kings Noth in Kent. Licens'd according to order.</title>
+            <author>Wilson, Timothy, 1642-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66602</idno>
+            <idno type="STC">Wing W2952</idno>
+            <idno type="STC">ESTC R217174</idno>
+            <idno type="EEBO-CITATION">99828874</idno>
+            <idno type="PROQUEST">99828874</idno>
+            <idno type="VID">33307</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33307)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1962:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vanity and falsity of the history of passive obedience detected Wherein is briefly demonstrated, that the first reformers were far from maintaining it in the author of that history and his party's sence. As also it is plainly evinced that it cannot be deduced from the homilies, articles, injunctions or canons, liturgy and bishops of the primitive English Church. And all the specious pretences he makes for it are fully answered. By Tim. Wilson, M.A. and rector of the Kings Noth in Kent. Licens'd according to order.</title>
+                  <author>Wilson, Timothy, 1642-1705.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by George Croom, at the Blew-Ball in Thames-street, near Baynard's-Castle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: The vanity and falsity of the history of passive obedience, &amp;c.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Obedience --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33307:1"/>
+            <pb facs="tcp:33307:1" rendition="simple:additions"/>
+            <p>THE Vanity and Falſity OF THE HISTORY OF <hi>Paſſive Obedience</hi> DETECTED.</p>
+            <p>Wherein is briefly Demonſtrated, That the Firſt Reformers were far from Maintaining it in the Author of that Hiſtory and his Party's Sence.</p>
+            <p>AS ALSO It is plainly Evinced that it cannot be deduced from the Homilies, Articles, Injunctions or Canons, Liturgy and Biſhops of the <hi>Primitive Engliſh Church.</hi> And all the ſpeci<g ref="char:EOLhyphen"/>ous Pretences he makes for it are fully Anſwered.</p>
+            <p>By <hi>Tim. Wilſon,</hi> M. A. and Rector of <hi>Kings Noth</hi> in <hi>Kent.</hi>
+            </p>
+            <p>
+               <hi>Licens'd according to Order.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. XXIII. 23.</hi>
+               </bibl>
+               <p>Buy the Truth, and Sell it not.</p>
+               <p>Beloved, believe not every Spirit, but try the Spirits, whether they are of God, becauſe many falſe Prophets are gone out into the World,
+<bibl>
+                     <hi>1 St. John. IV. 1.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> at the <hi>Blew-Ball</hi> in <hi>Thames<g ref="char:EOLhyphen"/>ſtreet,</hi> near <hi>Baynard</hi>'s-<hi>Caſtle.</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33307:2"/>
+            <pb n="1" facs="tcp:33307:2"/>
+            <head>THE Vanity and Falſity OF THE HISTORY OF <hi>Paſſive Obedience,</hi> &amp;c.</head>
+            <p>THE Hiſtory of <hi>Paſſive Obedience</hi> ſince the Reformation, tells us, That it was the Doctrine of all Ages.</p>
+            <p>To which I return this plain Anſwer: Our Noble and Bleſſed Reformers, and all Pro<g ref="char:EOLhyphen"/>teſtant Divines (as we who oppoſe <hi>Paſſive Obedi<g ref="char:EOLhyphen"/>ence,</hi> do at this day) declare, that the King's Power is of God, yea, that all Power is of God; that Kings are God's Miniſters and Vice-gerents; that they are God's Ordinance, and are not to be Reſiſted, but Obeyed; not only for Wrath, but alſo for Conſcience ſake: That God is the only Ruler of Princes; that neither Hereſie nor Infi<g ref="char:EOLhyphen"/>delity abſolve Subjects from their Allegiance and Duty to Kings. This, and the like is granted on all hands. And this is all that I could ever Col<g ref="char:EOLhyphen"/>lect from the Homilies, Articles, Injunctions, or Canons, Liturgy, and firſt Biſhops of the Prote<g ref="char:EOLhyphen"/>ſtant <hi>Engliſh Church.</hi>
+            </p>
+            <p>So that I ſhall premiſe theſe General Rules, for the underſtanding of the Judgment of the firſt Reformers, and of other later Divines by him mentioned.</p>
+            <p>
+               <hi>Firſt,</hi> Either they ſpeak againſt Faction, Sedi<g ref="char:EOLhyphen"/>tion, and Rebellion, in very large and general Terms; as all Divines, even thoſe of our Perſwa<g ref="char:EOLhyphen"/>ſion, do, as a moſt heinous and unnatural wick<g ref="char:EOLhyphen"/>edneſs, without ſtating any particular Caſe.</p>
+            <p>Or, <hi>Secondly,</hi> They ſpeak of Kings Ruling ac<g ref="char:EOLhyphen"/>cording to the Laws of their Country. Suppoſe I ſhould ſay in a Sermon, <hi>Good Chriſtian People, ye muſt in no caſe, or for no cauſe Reſiſt King</hi> William, <hi>for he that Reſiſteth, ſhall receive to himſelf Damnation.</hi> Would any Man (who knows my judgment) from ſuch words conclude, that I am for <hi>Paſſive Obedience?</hi> Would they not rather conclude, that I am zealous for obedi<g ref="char:EOLhyphen"/>ence to the King, and harbour no jealouſie of my Governors, but have a ſtrong preſumption that he will Rule according to Law; do what is Right, and that his Subjects may lead a quiet and peace<g ref="char:EOLhyphen"/>able Life, in all Godlineſs and Honeſty: And, doing their Duty, may aſſure themſelves of all the benefits of good Government. The Apoſtle ſaith, <hi>Whoſoever reſiſteth the Power, reſiſteth the Ordinance of God, and they that Reſiſt, ſhall
+<pb n="2" facs="tcp:33307:3"/>receive to themſelves Damnation.</hi> The Homilies <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, We muſt in no caſe reſiſt; and that it <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not Lawful for Inferiors and Subjects in any <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe to reſiſt and ſtand againſt the Superior Pow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s: (I hope this Author will acknowledge, that <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Homilies ſpeak in the ſame ſence with St. <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aul</hi>) We ſay ſo too.</p>
+            <p>But the Queſtion is, whether <hi>Paul</hi> calls Defen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve Arms againſt Illegal Proceedings and Univer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l Oppreſſion Damnable Reſiſtance. We ſay, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat it is not the Reſiſtance of which St. <hi>Paul</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peaks. And the Author brings no Reaſon to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rove it is. But we give Reaſons for our Inter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>retation. And this is one; Neither God, nor Man gives Authority to Governors to Oppreſs. Hear what a Learned Man and a grave Divine ſaith,
+<q>The Apoſtle doth not ſay expreſly, Whoſoever reſiſteth the Higheſt Men ſhall receive Damna<g ref="char:EOLhyphen"/>tion, but whoſoever ſhall reſiſt the Power. Let every one be ſubject, not to the will of the Higheſt Men, but to the Higher Powers.</q> There is a great deal of difference between theſe two. The Higher Powers, that is, that Autho<g ref="char:EOLhyphen"/>rity that God and man hath put upon ſuch a Man. It is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that muſt be Sub<g ref="char:EOLhyphen"/>jected to, and not Reſiſted. We profeſs againſt reſiſting Power, Authority, though abuſed. If they who have power to make Laws, ſhall make ſinful Laws, and ſo give Authority to any to force Obedience, we ſay here, there muſt be either Fly<g ref="char:EOLhyphen"/>ing or <hi>Paſſive Obedience.</hi> But if one that is in Authority commands out of his own will, and not by Law, I Reſiſt no Power, no Authority at all, if I neither Actively, nor Paſſively Obey: No, I do not ſo much as reſiſt abuſed Authority. This may ſeem ſtrange at firſt, but if you think of it, you will believe it. We diſtinguiſh between the Man that hath the Power, and the Power of that Man, and ſay though the Power muſt not be Reſiſted according to the letter and ſenſe of the Text, yet the Illegal Will and Ways of the Man may be Reſiſted, without the leaſt Offence againſt the Text. But of the Homilies I ſhall ſpeak in due place.</p>
+            <p>Or, <hi>Thirdly,</hi> They ſpeak of Perſonal Infirmi<g ref="char:EOLhyphen"/>ties and Crimes of Princes, of which God alone is the Avenger and Judge.</p>
+            <p>Or, <hi>Fourthly,</hi> They ſpeak of Tyranny in Exer<g ref="char:EOLhyphen"/>ciſe, when Laws enable Princes to Execute cruel Edicts, or when wicked Laws are made, and put in Execution; which is called the Abuſe of Power. In which caſe we own <hi>Paſſive Obedience,</hi> in Imi<g ref="char:EOLhyphen"/>tation of the Primitive Chriſtians. And ſo it was in Queen <hi>Mary</hi>'s days.</p>
+            <p>Or, <hi>Fifthly,</hi> They hyperbolize in zealous Ex<g ref="char:EOLhyphen"/>preſſions from an abhorrence of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ebellion, and due Reverence of Sacred Majeſty and Crowned Heads, God's Anointed, and Princes of greateſt Merit and Renown. As if I ſhould ſay of His preſent Majeſty, (in an Extaſie of Joy upon Medi<g ref="char:EOLhyphen"/>tation of our great Deliverance) He is the Earthly God and Saviour of <hi>England:</hi> Could any from hence rationally infer, that I den<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Defenſive Arms in ſome caſe?</p>
+            <p>Or, <hi>Sixthly,</hi> They Write in times wherein Ar<g ref="char:EOLhyphen"/>bitrary power and Innovations got footing: And ſo out of blind Zeal, and (as I may ſay) Super<g ref="char:EOLhyphen"/>ſtitious Devotion to Princes; or out of Prejudice; or they were Court-paraſites and Flatterers, as <hi>Mountague, Manwaring, Sibthorp, Parker, Cartwright,</hi> &amp;c. or poſſeſſed with ſome other evil Affection: Or they wrote zealouſly againſt the <hi>Pope</hi>'s Supremacy, and his pretended power of Excommunicating and Depoſing Kings, and againſt the Aſſaſſination and Murdering of Prin<g ref="char:EOLhyphen"/>ces, juſtified by ſome Jeſuits moſt Audaciouſly.</p>
+            <p>Or, <hi>Laſtly,</hi> They have ſpoken their own Senti<g ref="char:EOLhyphen"/>ments and private Opinions, not the Doctrine of the <hi>Church of England;</hi> and have been oppoſed by others in all times, (ſometimes Secretly, ſome<g ref="char:EOLhyphen"/>times Openly) of the ſame Communion and Church; and by Men of as great Knowledge, Piety, and Loyalty both to King and Country: And theſe have been both of the Clergy and Laity, as far as with due Reverence to their Su<g ref="char:EOLhyphen"/>periors they could. But ſurely no man in his Sen<g ref="char:EOLhyphen"/>ſes, can think that a whole Kingdom is to be made a Sacrifice to the perverſe Will and Luſt of a Tyrant, who diſpenſeth with all Laws, and is reſolved to Rule Arbitrarily, and will hearken to no Petitions, <hi>&amp;c.</hi>
+            </p>
+            <p>And thus having premiſed theſe general Rules for our plain Underſtanding, I deſcend to the par<g ref="char:EOLhyphen"/>ticulars of this Hiſtory. And firſt, I will conſi<g ref="char:EOLhyphen"/>der his <hi>Preface.</hi>
+            </p>
+            <p>He begins thus. <hi>Having always thought, that the Doctrine of</hi> Paſſive Obedience, <hi>or Non-reſi<g ref="char:EOLhyphen"/>ſtance of our Lawful Superiors, had been a Do<g ref="char:EOLhyphen"/>ctrine founded in the Holy Scriptures, recom<g ref="char:EOLhyphen"/>mended to the Chriſtian World by the Precepts and Examples of our Bleſſed Saviour, and the Practice of his more immediate Followers; which Copy the</hi> Church of England <hi>hath exactly Tran<g ref="char:EOLhyphen"/>ſcribed, to whoſe Immortal Glory it muſt be ſaid, that ſhe alone (in contradiſtinction both to Pa<g ref="char:EOLhyphen"/>piſts and Diſſenters) hath aſſerted the Principles of Obedience to Princes, as the beſt Ages of Chri<g ref="char:EOLhyphen"/>ſtianity own'd, and practiſed it.</hi>
+            </p>
+            <pb n="3" facs="tcp:33307:3"/>
+            <p> 
+               <hi>Anſw.</hi> This Author's Thoughts are no Rule for us to live by: And I make no queſtion (if he will lay aſide Prejudice) but that he will ſee reaſon to change his mind, and to acknowledge, that <hi>Paſſive Obedience</hi> in his ſenſe, is no Doct<g ref="char:EOLhyphen"/>rine founded in the Holy Scriptures, <hi>&amp;c.</hi> And that the <hi>Church of England</hi> hath tranſcribed no ſuch Copy as he ſpeaks of. For it would be not the Immortal Glory, but the Everlaſting Shame of the Biſhops and Clergy, to juſtifie ſuch Do<g ref="char:EOLhyphen"/>ctrine as muſt neceſſarily bring Slavery upon their Native Country. As if Chriſt came into the World not to ſave mankind, but deſtroy it; and God had left all Political Society to be a Prey to Wolves: For ſo Tyrants are called.</p>
+            <p>
+               <hi>Obj.</hi> The matter of Fact as to the firſt Ages of Reformation, is denied: (So the Author brings us in objecting) while ſome affirm, that the Te<g ref="char:EOLhyphen"/>net is no older than Arch-biſhop <hi>Laud,</hi> and was introduced by a few Court-Biſhops, the better to make way for the attaining and eſtabliſhing of their own Grandeur.</p>
+            <p>
+               <hi>Anſw.</hi> We ſay, that the Doctrine of <hi>Paſſive Obedience</hi> in this Authors ſenſe, was not taught by the firſt Bleſſed Reformers; and that it began about the latter end of the Reign of King <hi>James</hi> the Firſt, as we hope to prove in the following Diſcourſe. And we fear Temporal Intereſt, and ſomewhat of the humour of <hi>Diotrephes,</hi> who loved to have the Preheminence, more than Zeal to propagate the Truth of the Goſpel brought into the Church this and ſome other like Doctrines, to which we ſay, our firſt Reformers were whol<g ref="char:EOLhyphen"/>ly Strangers.</p>
+            <p>
+               <hi>Obj.</hi> The Doctrine of <hi>Paſſive Obedience</hi> can<g ref="char:EOLhyphen"/>not be unſeaſonable, ſince no Government can be ſafe without it.</p>
+            <p>
+               <hi>Anſw.</hi> Some Men have a great fondneſs for their own Opinions. Is there any Kingdom, State, or Government in Chriſtendom, that thinks as this Author Writes? And muſt his <hi>Ipſe Dixit</hi> ſuffice? For he offers no Reaſon. Is there no way to avoid Faction, Sedition, and Rebellion, but by teaching Men to deny their Senſes, and be calm, like innocent Lambs, while the moſt Barbarous <hi>Papiſts</hi> would cut their Throats, and ruine their Poſterity?</p>
+            <p>What if Lewd Libellers, as <hi>Parſons</hi> the Jeſuit, <hi>Milton,</hi> &amp;c. Traduce the beſt of God's Anoin<g ref="char:EOLhyphen"/>ted? And what if Rebels Murder the beſt of Kings, muſt not therefore the Innocent defend themſelves? Was <hi>David</hi> Wicked for defending himſelf by force of Arms againſt the Tyranny of <hi>Saul,</hi> becauſe <hi>Abſalem</hi> was a Rebel, and expoſed his Fathers admirable Reign? It is the Cauſe makes a thing Juſt, or Unjuſt. Every Sophiſter may ſee the Fallacy of ſuch Arguments. I am ſure <hi>Paſſive Obedience</hi> was ſo unſeaſonable in our days, that it had almoſt Ruined the moſt Glori<g ref="char:EOLhyphen"/>ous National Church upon Earth, and threatned Laws, Liberty, and Property. Such advantage had the impudent <hi>Jeſuits</hi> made of it.</p>
+            <p>
+               <hi>Obj.</hi> Did we ſeriouſly ſtudy the Laws of Pro<g ref="char:EOLhyphen"/>vidence, and conſider the indiſpenſible Obliga<g ref="char:EOLhyphen"/>tion ſaid on us of taking up the Croſs: Did we remember that Affliction is the Churches Portion; and that not the leaſt Evil may be done to pro<g ref="char:EOLhyphen"/>cure the greateſt Good, this Doctrine would be more eaſily Believed, and more readily Embra<g ref="char:EOLhyphen"/>ced.</p>
+            <p>
+               <hi>Anſw.</hi> God's Providence and Human Prudence, are not Inconſiſtent. But God requires of us the uſe of Means to deliver our ſelves out of Af<g ref="char:EOLhyphen"/>fliction. And we ſay in ſome caſe it is ſo far from being Evil, that it is a moſt Heroick Ver<g ref="char:EOLhyphen"/>tue, when God inſpires the Nobles of a Nation to throw off the Yoak of Univerſal Oppreſſion. And though Affliction is the Churches portion, yet if God gives us Halcyon days, or in our Diſtreſs we have opportunity to free our ſelves from <hi>Aegyptian</hi> Task-maſters, it is both Sin and Folly to continue in Bondage.</p>
+            <p>
+               <hi>Obj.</hi> This is the Doctrine of <hi>Hobbs,</hi> and <hi>Par<g ref="char:EOLhyphen"/>ſons</hi> the Jeſuit, <hi>That Power is Originally in the Body of the People; that the Foundation of all Government is laid in Compact; and that the breach of Conditions by one Party, diſpenſeth with the Duty of the other, though confirmed with Sacraments. Oaths, and reiterated Promiſes.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That all Government is a Truſt, and founded in Covenant, I have elſewhere proved And though we ſay, that all Power is of God yet the Limitation, Qualification, and Deſigna<g ref="char:EOLhyphen"/>tion of the Perſon, or Soveraign, and the Form of Regiment, is an Ordinance of Man. And we affirm, that if our Prince ſuffers in a good Cauſe, as in a Rebellion, we are bound to Suffer with him. And this is not <hi>Hobbiſm.</hi> But if <hi>Hobbs</hi> owns ſome Truths that we, and all wiſe Politi<g ref="char:EOLhyphen"/>tians, and moſt Reformed Divines own, is Truth the worſe? What if the Devil ſaid, <hi>Jeſus, thou Son of God,</hi> muſt not we ſay ſo likewiſe? Leave off theſe fooliſh Imputations. As for the <hi>Papiſts,</hi> (as a Learned Divine hath obſerved) they hold and practiſe againſt this, and for this, and beyond this, as they ſee they may ſerve their own Turns. In their Practice, eſpecially of late, they have laboured to infuſe into the People, yea, and
+<pb n="4" facs="tcp:33307:4"/>into Princes, an opinion of their Abſolute Pow<g ref="char:EOLhyphen"/>er, as conceiving it for the preſent moſt condu<g ref="char:EOLhyphen"/>cing to their ends, who have preached up that all is the King's; that his Will is our Law; that all Grants are but Acts of Grace; that whatſoever he Commands, muſt be obey'd, either by Doing, or Suffering.</p>
+            <p>Of a like nature is that childiſh Inſinuation, if not willful Calumny, that we are not obedient to our Soveraign, becauſe he is God's Vice-gerent, and becauſe God hath obliged us to be ſubject, not only for Wrath, but for Conſcience ſake: And that we are Obedient and Loyal only, becauſe our Compliance advanceth our Deſigns, <hi>&amp;c.</hi> This is a <hi>Machiavellian</hi> trick, and unworthy of a Diſ<g ref="char:EOLhyphen"/>putant.</p>
+            <p>Sir, I beſeech you conſider that we are about a caſe of Conſcience of greateſt concern to the whole Kingdom; and uſe Arguments, or relate Authorities; and do not act the part of a Slan<g ref="char:EOLhyphen"/>derer, inſtead of an Hiſtorian. For we take our ſelves to have as good a Conſcience in this matter as you, be you who you will. And if we know our own Hearts, had no deſign in this great Re<g ref="char:EOLhyphen"/>volution, but delivering our ſelves, and our Po<g ref="char:EOLhyphen"/>ſterity from <hi>Popery</hi> and <hi>Slavery.</hi> So much for the <hi>Preface.</hi>
+            </p>
+            <p>Let us go on to the <hi>Introduction.</hi>
+            </p>
+            <p>And here I agree with the Author about the Interpretation of the Counſel of our Holy Saviour, St. <hi>Matt.</hi> 7.15, 16. who when he bids us to <hi>Be<g ref="char:EOLhyphen"/>ware of falſe Prophets, who come in Sheeps Clo<g ref="char:EOLhyphen"/>thing, but inwardly are ravening Wolves,</hi> cau<g ref="char:EOLhyphen"/>tions us, that <hi>we ſhall know them by their Fruits.</hi> That is, not by the Fruits of their Lives, but of their Doctrine. Now we ſay, the natural conſe<g ref="char:EOLhyphen"/>quences of <hi>Paſſive Obedience,</hi> when we have a willful or wicked Prince, are Arbitrary Power, Oppreſſion, Tyranny, Popery, Slavery, Invalida<g ref="char:EOLhyphen"/>ting of Laws, Obſtructions of publick Juſtice, and any Grievance that can befall a Nation. I wiſh we had not ſeen theſe Evils with our own Eyes. But then perhaps we ſhould have been hard put to it to make this Author, and men of his Perſwaſion, to believe the many horrid Miſchiefs which plain<g ref="char:EOLhyphen"/>ly follow ſuch flattering Doctrine.</p>
+            <p>Likewiſe I acknowledge, that if we would judge of the Doctrines of our Church, we muſt conſult her Articles, Canons, publick Homilies, Publick Offices of Devotion, General Orders of her Biſhops, Cenſures of her Univerſities, and Writings of her Great Men, who have Vindica<g ref="char:EOLhyphen"/>ted her Doctrine, and explained her Belief.</p>
+            <p>I proceed to the Firſt Chapter, according to this method, which contains the Doctrine of the 39 Articles.</p>
+            <p>
+               <hi>Anno</hi> 1552. In the <hi>Convocation</hi> held at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> Articles of Religion were agreed upon, of which the Thirty ſixth runs thus,</p>
+            <p>
+               <hi>The Civil Magiſtrate is Ordained and allowed of God, and therefore is to be Obeyed, not only for Wrath, but alſo for Conſcience ſake.</hi> And expreſly aſſerts, <hi>that the Biſhop of</hi> Rome <hi>hath no Juriſ<g ref="char:EOLhyphen"/>diction in this Realm of</hi> England.</p>
+            <p>In the Articles of our Church under Queen <hi>Elizabeth,</hi> Anno 1562. it runs thus, and ſo con<g ref="char:EOLhyphen"/>tinues to this day.</p>
+            <p>
+               <hi>The Queens Majeſty hath the chief Power in this Realm of</hi> England, <hi>and other her Dominions, un<g ref="char:EOLhyphen"/>to whom the chief Government of all Eſtates of this Realm, whether they be Eccleſiaſtical, or Civil, in all caſes doth appertain, and is not, nor ought to be ſubject to any Foreign Juriſdiction.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Surely no man, who bears the name of a Proteſtant, ever denied this. But I imagine, that if <hi>Paſſive Obedience</hi> had been ſuch a peculiar and Characteriſtical Doctrine of the Church of <hi>England,</hi> as we have been perſwaded of late to believe, we ſhould have had an Article againſt Defenſive Arms in any caſe; and it would have been condemned as a factious, ſeditious and rebel<g ref="char:EOLhyphen"/>lious Principle, if it deſerved Damnation, as this Author ſpeaks often times. I expected plain right down Engliſh to condemn ſuch wicked and dange<g ref="char:EOLhyphen"/>rous Doctrine, but I find not one word about it in the Articles, nor can this Author. Which is to me a ſtrong preſumption, that the firſt Refor<g ref="char:EOLhyphen"/>mers medled not with this as an Article of Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>And this Author confeſſeth pag. 4. That this Doctrine is not limited to the particular caſe of Subjects taking up Arms. Well, but it ſeems to him by two neceſſary Conſequences to be deduced from it.</p>
+            <p>Let us hear them. Firſt, <hi>Becauſe if the Pope, who pretends by Divine Right, had no power over Kings, much leſs have the People any Power, who pretend to an Inferior Right, that of Com<g ref="char:EOLhyphen"/>pact.</hi> (As if by the way the People had not a Divine right to Defend themſelves: Which Law of Na<g ref="char:EOLhyphen"/>ture is certainly the Law of God unwritten, and is only in Man's Heart.)</p>
+            <p>Secondly. <hi>Becauſe the Article makes no Di<g ref="char:EOLhyphen"/>ſtinction, but Excludes all other Power as well as that of the Pope.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> All that the Article Diſclaims is the Uſurped Power of the Pope: And all that it de<g ref="char:EOLhyphen"/>clares is, the Supream Power of the King over all
+<pb n="5" facs="tcp:33307:4"/>Perſons in his Dominions. But the firſt Refor<g ref="char:EOLhyphen"/>mers were not ſo ſenſeleſs as to ſpeak a word againſt the Peoples power of Self-preſervation. And who among us ſaith, that the People have Power or Juriſdiction over their Prince, (when we ſay that they are not Rulers, or in Office) but they have a Power of Self-preſervation? And if a Prince ſeeks their Ruine cauſeleſsly, they may Defend themſelves by the Law of Nature, and compel him to keep his Covenant and Oath, the good of the whole Kingdom being the end of all Government. And if they can no longer truſt him with their Safety, becauſe he hath will<g ref="char:EOLhyphen"/>fully broken his Promiſes, they may Elect one whom they can Truſt; and they are not bound to be Paſſive under Illegal Oppreſſions. God Reſt the Soul of this Author for his honeſt ſimplicity and well-meaning; but I would gladly ſee his Logick in Mood and Figure. For verily, I con<g ref="char:EOLhyphen"/>ceive, that no Conſciencious and Wiſe Man, who is for <hi>Paſſive Obedience,</hi> did ever dream that this Article denied Defenſive Arms. And for me it ſhall go for the peculiar Fancy of the Author.</p>
+            <p>We ſay that the Power of the King is of God; but we ſay alſo that Originally they were Elected by the People. And Dr. <hi>Fern</hi> acknowledgeth, That it was probably ſo at firſt in this Nation. But we ſay that it was certainly ſo, not only in this, but in all the Kingdoms of the World. See <hi>Po<g ref="char:EOLhyphen"/>lydore Virgil,</hi> the Book called the <hi>Mirror, Bra<g ref="char:EOLhyphen"/>cton, Forteſcue,</hi> &amp;c. And for 2970 years, or thereabouts, (as Chronologers compute) that is, from <hi>Adam</hi> to <hi>Rehoboam,</hi> there was no Lineal Deſcent, or Hereditary Succeſſion among God's own People. And it muſt be confeſſed by all, That if the Royal Line ſhould fail in any Kingdom, there muſt be Election, for God doth not now work Miracles, nor ſend extraordinary Prophets to Anoint Kings; but he whom the People in ſuch caſe would chuſe, is God's Anointed, and to him all owe Obedience. I ſhall ſay no more at this time about this firſt Chapter: Only I cannot but obſerve, that though this Author pretends to the Meekneſs and Spirit of <hi>Chriſt Jeſus,</hi> yet he is very prone to Calumniate his Antagoniſts. For who ever of our ſide in his Wits, ſaid, that the People are the Interpreters of the meaning of the Laws, as he ſpeaks <hi>p.</hi> 4. And if any ever ſaid, that the Parliament, the Repreſentatives of the People, and the Higheſt Court of the Kingdom, are the Interpreters of the meaning of the Laws, it muſt be underſtood with ſuch Exceptions as theſe, That they have not Arbitrary Power; That they are not Infallible; That they muſt be guided by right Reaſon, <hi>&amp;c.</hi> But there needs no great Con<g ref="char:EOLhyphen"/>ſultation in caſe of Univerſal Oppreſſion: (In which caſe alone we juſtifie Defenſive Arms) for it is a thing ſenſible, and we have Experience of it, or feel it, and cannot deny our Senſes, but are forced as ſenſible Creatures, to complain and deſire the Redreſs of our Grievances.</p>
+            <p>I go on to Chapter II. which contains the In<g ref="char:EOLhyphen"/>junctions and Canons.</p>
+            <p>Nothing but blind Zeal to maintain a Party that a Man hath eſpouſed, could move the Author to produce the Injunctions and Canons, made in the time of <hi>Edward</hi> the VI. and Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> as aſſerting <hi>Paſſive Obedience,</hi> or condemn<g ref="char:EOLhyphen"/>ing Defenſive Arms in ſome caſe; for all Ortho<g ref="char:EOLhyphen"/>dox Divines acknowledge every tittle to be true; and they overthrow the Pope's Supremacy in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and all Foreign Juriſdiction. But the firſt Reformers of our Church had more Wiſdom and Moderation than to Condemn their Brethren of the Reformed Churches beyond the Seas, when both <hi>Luther</hi> and <hi>Calvin</hi> juſtified Defenſive Arms. And ſurely every wiſe and conſiderate Reader muſt needs Laugh at the palpable Folly and Weakneſs of this Author, to infer from theſe Injunctions and Canons, that <hi>Paſſive Obedience</hi> was the Cha<g ref="char:EOLhyphen"/>racteriſtical Mark of the <hi>Church of England</hi> in thoſe days. He is Pur-blind with Prejudice, and ſo now the Sun ſhines bright and clear, he is bet<g ref="char:EOLhyphen"/>ter pleaſed with the Owl-light of his own Ima<g ref="char:EOLhyphen"/>gination. Surely we receive theſe Injunctions and Canons as the beginning of Reformation, with Hearts full of Joy. And I am fully of Opi<g ref="char:EOLhyphen"/>nion, that <hi>Henry</hi> VIII began at the Root, when he renounced the <hi>Pope</hi>'s Supremacy.</p>
+            <p>But let us hear the Doctrine of the Injunctions and Canons.</p>
+            <p>In the Infancy of the Reformation under <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> VIII. (for there I begin the Reſtoration of Religion to her purity in this Kingdom, as Dr. <hi>Burnet</hi> doth) <hi>Anno</hi> 1536. Injunctions were Iſ<g ref="char:EOLhyphen"/>ſued out: The firſt of which is, <hi>That every Man that hath Cure of Souls, ſhall for the Eſtabliſhing and Confirmation of the King's Authority and Juriſdiction, ſincerely declare, manifeſt and open for the ſpace of one quarter of a Year next en<g ref="char:EOLhyphen"/>ſuing, once every Sunday, and after that at leaſt wiſe twice every Quarter in their Sermons and other Collations, That the Biſhop of</hi> Rome's <hi>
+                  <g ref="char:V">Ʋ</g>ſurped Power and Juriſdiction having no Eſta<g ref="char:EOLhyphen"/>bliſhment or Ground in the Law of God, was of moſt juſt cauſe, taken away and Aboliſhed—And that the King's Power in his Dominions, is the Higheſt Power and Potentate under God, to
+<pb n="6" facs="tcp:33307:5"/>whom all Men within the ſame Dominions, by Gods Command owe moſt Loyalty and Obedience, afore and above all other Potentates on Earth.</hi>
+            </p>
+            <p>I am ſo far from diſowning any of this, that I wiſh it had been every Week publiſhed in every Market Town in the Reign of King <hi>James</hi> II. We always abhorred the Uſurpations of the Biſhop of <hi>Rome:</hi> And we always owned the King's Lawful Power and Authority. But we ſay, that if a King is reſolved to Subject us to a Forreign Power, and to Diſpenſe with all Laws made for our Security, Liberty and Property, and the Eſtabliſhed Reli<g ref="char:EOLhyphen"/>gion, we may hinder him from Cutting our Throats, and Defend our ſelves. And this is nei<g ref="char:EOLhyphen"/>ther R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bellion nor Reſiſtance, properly ſo called; but Natural Self preſervation, againſt the Freaks and prodigious Melancholy Fits of a raging and beaſtly Tyrant, who with greateſt Ingratitude would devour Friends as well as Foes.</p>
+            <p>But let us ſee his Inference <hi>p.</hi> 5. <hi>Now if the King be above all other Powers, then he cannot be Accountable to any other Power, and ſo ought not to be Reſiſted.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> He that reſiſts the Luſt of a Tyrant, re<g ref="char:EOLhyphen"/>ſiſts no Power, as hath been ſaid often; becauſe neither God nor Man gave him ſuch Power. And though the King is above all Power, and it is not for me to meddle with the King's Prerogatives, or the Parliaments Priviledges, yet I may ſafely ſay, He is not above Law, which makes him King, as I ſhall ſhew anon out of the Fragments of Mr. <hi>Hooker</hi>'s Eighth Book. And it is a Sen<g ref="char:EOLhyphen"/>tence worthy to be written in Letters of Gold, which I find, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Sect. 5. <hi>p.</hi> 31. with me) King <hi>Charles</hi> the Firſt mentioned, <hi>More than the Law gives me I would not have, and leſs the meaneſt Subject ſhould not.</hi> And let me remind the Author that he ſaith in the <hi>Preface,</hi> that he only doth the office of an Hiſtorian, and intended not to promote any Diſturbance. But here and elſe<g ref="char:EOLhyphen"/>where he cannot forbear his own Inferences, how unreaſonable ſo ever they be.</p>
+            <p>Again he ſaith, <hi>The Injunctions of the Lord</hi> Cromwell, Edward VI. <hi>and Queen</hi> Elizabeth, <hi>plainly diſtinguiſh the Claim of the Pope from other Claims, implying, That our Church always believed that her Princes Power was derived immediately from God, and that they were Supe<g ref="char:EOLhyphen"/>rior to all their Subjects, either Singly, or Col<g ref="char:EOLhyphen"/>lectively, and ſo were not accountable to them, but only to God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> No Mans private inferences and Opinions are the Doctrines of the Church. The Injuncti<g ref="char:EOLhyphen"/>ons and Canons have left ſuch a Latitude, that both Sides approve. Likeas the 17th. Article is of ſuch a latitude, that both <hi>Calviniſts</hi> and <hi>Arminians</hi> ſubſcribe with Cheerfulneſs and a good Conſcience. And this I take to be great Wiſdom in our firſt Re<g ref="char:EOLhyphen"/>formers. I wiſh thoſe Biſhops that Succeeded them had been as wiſe at all times. For let this Author i<g ref="char:EOLhyphen"/>magine what he pleaſeth, private Opinions, when urged as Doctrines of the Church, or made Cha<g ref="char:EOLhyphen"/>racteriſtical Marks of the Church, have been the cauſe of all Diſturbances in the Chriſtian World. We all believe that the King's Power is of God; but that any one form of Regiment is derived immediately from God, is no Doctrine of our Church, nor of any Church; and is the firſt fal<g ref="char:EOLhyphen"/>ſhood in political Government; as I have ſhewed elſewhere. All Kings receive their power Medi<g ref="char:EOLhyphen"/>ately by the People. And Mr. <hi>Hooker</hi> faith, tho he is <hi>ſingulis Major,</hi> yet he is <hi>univerſis Minor.</hi> But my opinion is, this is according to the Con<g ref="char:EOLhyphen"/>ſtitution of every Kingdom, though no People can give away the right of Self-preſervation.</p>
+            <p>I am weary of this <hi>Cuckow</hi> tune always the ſame thing. In ſhort, the Canons of the Church of <hi>England</hi> are Innocent in this matter: And I would juſtifie our Church; but the Guilt of ſome and the Peeviſhneſs of others, will not ſuffer me. And ſuch as theſe may call me an <hi>Apoſtate</hi> and <hi>Presbyterian,</hi> perhaps only becauſe they are a<g ref="char:EOLhyphen"/>ſhamed to confeſs their own Guilt. I profeſs my ſelf as true a Son of the <hi>Church of England</hi> as any Man in <hi>England.</hi> And I always was, and am at this day, for Monarchy, Epſcopacy and Liturgy, as Eſtabliſhed by Law. And I humbly ſubmit in all things of Order, Decency and Go<g ref="char:EOLhyphen"/>vernment, to the Fathers of the Church, and to the King and Parliament. And let Men ſunk in Prejudice ſay what they will, this was always the Judgment of the Proteſtant <hi>Engliſh</hi> Church. If our Governors think fit to change things in their own nature changeable, every Subject is bound in Conſcience to Obey. If they think not fit, be things as they are, I am contented.</p>
+            <p>Now as for the Canons of the year 1640, I con<g ref="char:EOLhyphen"/>feſs they have a ſpice of Innovation. And I ſay, (I hope without offence to any Impartial conſiderer of thoſe days) That Arbitrary Power began to creep upon us. And Arch-biſhop <hi>Laud</hi> and his Party, nor the <hi>Puritans</hi> and their Party, are not to be juſtified in all things. And here I make my Appeal to <hi>Ruſhworth</hi>'s Collections, or any other impartial Record of thoſe times. But I think the Author had better have buried theſe things in Silence. For how they tend to the Credit of the <hi>Church of England,</hi> I do not underſtand, and I need not deſcant upon them.</p>
+            <pb n="7" facs="tcp:33307:5"/>
+            <p> Let us go on to Chap. III. which contains the Doctrine of the Homilies.</p>
+            <p>Here I ſhall not ſay with Mr. <hi>Mountague,</hi> (<hi>Ap<g ref="char:EOLhyphen"/>peal. p.</hi> 260.) I will admit the Homilies, as con<g ref="char:EOLhyphen"/>taining certain Godly and wholſom Exhortations; but not as publick Dogmatical Reſolutions, Con<g ref="char:EOLhyphen"/>firmed of the <hi>Church of England.</hi> They have not Dogmatical Poſitions or Doctrines to be propugned and ſubſcribed in all and every point. They may ſeem to ſpeak ſomewhat too hard, and ſtretch ſome ſayings beyond the uſe and practice of the <hi>Church of England.</hi>
+            </p>
+            <p>But with this Author I will account them ad<g ref="char:EOLhyphen"/>mirable Sermons made by our firſt Reformers, as the Body of practical Divinity, and the Confuta<g ref="char:EOLhyphen"/>tions of the Errors and Idolatries of the Church of <hi>Rome,</hi> &amp;c.</p>
+            <p>And by the way I am Glad that the Homilies are allowed to confute the Idolatries of the Church of <hi>Rome.</hi> Becauſe not long ſince divers for <hi>Paſſive Obedience</hi> and <hi>Non-reſiſtance,</hi> denied that there was any Idolatry in the Church of <hi>Rome,</hi> to the great Scandal of our Mother the <hi>Church of England.</hi>
+            </p>
+            <p>This premiſed, I affirm that if Mens thoughts may be known by their words, Dr. <hi>Welw.</hi> (Let<g ref="char:EOLhyphen"/>ter to Mr. <hi>March, p.</hi> 10.) might well ſay, That <hi>Paſſive Obedience,</hi> in the narrow ſenſe we take it in, was not ſo much as thought on at the time of publiſhing the Homilies.</p>
+            <p>Firſt, Becauſe the words <hi>Paſſive Obedience</hi> are not in the Homilies.</p>
+            <p>
+               <hi>Secondly,</hi> Becauſe they do not ſtate our Caſe; which is this, If a King is reſolved to deſtroy the Religion by Law Eſtabliſhed, and Liberty and Property, and will rule by the Sword, contrary to the Fundamental Laws of the Kingdom, whe<g ref="char:EOLhyphen"/>ther in this caſe Defenſive Arms are not Lawful? Now we ſay, the Compilers of the Homilies never condemned this: Neither are the words, <hi>Defenſive Arms are <g ref="char:V">Ʋ</g>nlawful,</hi> in the Homilies.</p>
+            <p>
+               <hi>Thirdly,</hi> becauſe in thoſe days the Writings of many Divines of the Foreign Reformed Churches, in which Defenſive Arms were Juſtified, were ap<g ref="char:EOLhyphen"/>proved, and publickly printed and owned by the Univerſities, or at leaſt not publickly Cenſured: As <hi>Calvin</hi>'s Inſtitutions, all <hi>Luther</hi>'s Works, and the Writings of <hi>Peter Martyr,</hi> &amp;c.</p>
+            <p>And we ſay, that in popular Sermons, fitted to the Capacities of the Common people, many zea<g ref="char:EOLhyphen"/>lous and hyperbolical Expreſſions may be allowed, and favourably Interpreted, eſpecially againſt thoſe horrid Crimes of Sedition and Rebellion, which yet would ſcarce paſs in Dogmatical Deciſions. For theſe latter require dry Reaſon and plain Scripture, without Rhetorications, or Metaphorical Expreſſi<g ref="char:EOLhyphen"/>ons, Alluſions, or Illuſtrations.</p>
+            <p>I will put a Caſe. Suppoſe the Late King ſhould have ſent three or four Officers of his ſtanding Army to a Nobleman's Houſe, with a Commiſſi<g ref="char:EOLhyphen"/>on or Command to cut the Throats of his Chil<g ref="char:EOLhyphen"/>dren, Wife, and his Own; and theſe Officers ſhould have ſuch wicked Hearts as to endeavour to ac<g ref="char:EOLhyphen"/>compliſh this Villany: If in this caſe the Noble<g ref="char:EOLhyphen"/>man may defend himſelf by force of Arms againſt theſe Cut-throats, and call in his Neighbours to help him; then thoſe phraſes in the Homilies, In no caſe to Reſiſt; In any caſe it is not Lawful; we may not in any wiſe withſtand Violently, <hi>&amp;c.</hi> muſt admit of the ſenſe that I put upon them. (And moſt aſſuredly thoſe Bleſſed Authors of Re<g ref="char:EOLhyphen"/>formation abhorred ſuch bruitiſh Tyranny.)</p>
+            <p>And if this Author will not recant this diſinal Doctrine in the vaſt extent thereof, he muſt be in a deep Melancholy, and fitter for Dark Rooms, than to Converſe with Humane Society.</p>
+            <p>Again, I muſt confeſs, that the moſt barbarous, impudent, and brazen-fac'd Murder of our Royal Martyr King <hi>Charles</hi> the Firſt, a Prince of moſt excellent Virtues, and of ever bleſſed Memory, could do no leſs than provoke every Loyal Sub<g ref="char:EOLhyphen"/>ject in Parliament to make a moſt Severe and Zealous Declaration about taking Arms againſt the King. But I believe in my Conſcience this Declaration never intended to Enſlave us, or ne<g ref="char:EOLhyphen"/>ver affirmed that if the King will cut our Throats, we may not defend our ſelves by the Law of Na<g ref="char:EOLhyphen"/>ture. So that my Interpretation muſt take place, that the Phraſes are not meant abſolutely in the utmoſt Extremity: For this would be to ſuppoſe that the People of <hi>England</hi> had choſen for their Repreſentatives in <hi>Parliament,</hi> men reſolved to make them Slaves, and not to preſerve Liberty and Property.</p>
+            <p>This, with the Diſtinctions before uſed, is a ſuf<g ref="char:EOLhyphen"/>ficient Anſwer to any Man who hath no mind to be Obſtinate and Cavil, but contends for Truth not for Victory. Not to ſay that Biſhop <hi>Jews</hi> and without pretence of Contradiction, Dr. <hi>Bilſon</hi> acknowledged Defenſive Arms Lawful in ſome caſe, in thoſe very days, and when he purpoſely handled the Subject or Controverſie.</p>
+            <p>Obſerve alſo the time, when the Homilies were made. They were compoſed in the happy Reigns of <hi>Edward</hi> VI. and Queen <hi>Elizabeth;</hi> in whoſe days there was no fear of <hi>Popery,</hi> or Arbitrary Power, on their parts; though ſome Beſorted Prieſts and People, that hated to be Reformed,
+<pb n="8" facs="tcp:33307:6"/>might Rebel againſt <hi>Moſes</hi> and <hi>Aaron,</hi> and deſire to return back into <hi>Aegyptian</hi> Bondage and Sla<g ref="char:EOLhyphen"/>very And the Homilies were made chiefly to perſwade ſuch to Peace and Obedience to their Lawful Superiors, whom God had ſet over them, and to ſhew them the Heinouſneſs of Rebelling againſt them: And may now with much profit be read to perſwade all good Chriſtian people of <hi>England,</hi> to Honour Reverence and Obey King <hi>William</hi> and Queen <hi>Mary,</hi> whom God's moſt Gracious providence hath placed on the Throne.</p>
+            <p>I deſcend to Chapter IV. which contains the Doctrine of the Liturgy.</p>
+            <p>Though I do not equal the Liturgy with the Word of God, nor take it to be abſolutely unalte<g ref="char:EOLhyphen"/>rable (nor doth the Church) yet I am of this Author's mind, That it is the moſt excellent Body of publick prayers that the World owns: Or, (as I have elſewhere expreſſed my ſelf) It I ſhould ſay, that there is no Church on Earth, which Worſhips god and Chriſt with greater Purity, Majeſty, Reverence and expreſſions of Devotion, than the <hi>Engliſh Proteſtant,</hi> no Man could con<g ref="char:EOLhyphen"/>fute me. Particularly no Church in the World Prays more Zealouſly for Kings and Governors. And what this Author produceth out of the Li<g ref="char:EOLhyphen"/>turgy was never diſputed by any of us. We profeſs that God is the only Ruler of Princes; we pray that God would deliver us from all Se<g ref="char:EOLhyphen"/>dition, privy Conſpiracy, and Rebellion; we ſay, that King <hi>William</hi> and Queen <hi>Mary</hi> are God's Miniſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers and we beg of God that all their Sub<g ref="char:EOLhyphen"/>jects duly conſidering that they have God's Au<g ref="char:EOLhyphen"/>thority, may faithfully Serve, Honour and hum<g ref="char:EOLhyphen"/>bly Obey them, according to God's bleſſed Word and Ordinance; and we pray God that the King may cut off all ſuch workers of Iniquity, as turn Religion into Rebellion, and Faith into Faction; and we beſeech God to accept of our unfeigned Oblation of our ſelves, vowing all Holy obedience in thought, word, and work unto the Divine Ma<g ref="char:EOLhyphen"/>jeſty, and promiſing in him, and for him, all Du<g ref="char:EOLhyphen"/>tiful Allegiance to his Anointed Servants, and to their Heirs for ever.</p>
+            <p>But what is all this to <hi>Paſſive Obedience?</hi> This Author cannot be ſo Ignorant, as not to know that all Learned Divines, of what Perſwaſion ſo<g ref="char:EOLhyphen"/>ever, own this. Inſomuch, that I muſt needs ſay, that as greatly as he pretends to the meek<g ref="char:EOLhyphen"/>neſs and peaceableneſs of a Chriſtian Spirit, he hath foully tranſgreſſed the Rule of Chriſtian Charity, which commands to think no Evil, by inſinua<g ref="char:EOLhyphen"/>ting that we allow of Se<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ition, Conſpiracy, Re<g ref="char:EOLhyphen"/>bellion, Faction, <hi>&amp;c.</hi> And becauſe he finds theſe words in the Liturgy, he infers, that the Liturgy is for <hi>Paſſive Obedience.</hi> But the very mention<g ref="char:EOLhyphen"/>ing of this is ſufficient Commation; and ſhews that the Author had more Zeal than Knowledge. And pray, Reader obſerve, that the Words <hi>Paſſive Obedience aſſerted,</hi> and <hi>Defenſive Arms condem<g ref="char:EOLhyphen"/>ned,</hi> or the like, are not once to be ſound, either in the Articles, or in the Injunctions or Canons, or in the Homilies, or in the Liturgy. From whence I infer, that it was not the Doctrine of the firſt Reformers much leſs a Characteriſtical mark of a Son of the <hi>Church of England.</hi>
+            </p>
+            <p>To anſwer all his Authorities were endleſs, tho I think many of them are nothing to the pur<g ref="char:EOLhyphen"/>poſe. And the General Rules preſcribed in the beginning of this Diſcourſe will ſuffice; and the Learned Reader may make Application of them without Difficulty.</p>
+            <p>Wherefore, I ſhall only obſerve what the Au<g ref="char:EOLhyphen"/>thor confeſſeth of the Meek, Wiſe, and ever re<g ref="char:EOLhyphen"/>nowned <hi>Hooker, p.</hi> 29. In this (i. Q. <hi>Elizabeth</hi>'s) Reign, Mr. <hi>Hooker</hi> publiſhed his Judicious Books of <hi>Eccleſiaſtical</hi> Polity. From the firſt of which it muſt be confeſſed, it is obſerved, that he lays the Foundation of Government in Agree<g ref="char:EOLhyphen"/>ment, he herein following the Schools too ſtrict<g ref="char:EOLhyphen"/>ly, <hi>&amp;c.</hi>
+            </p>
+            <p>And here by the way, he tells us that <hi>Ariſtotle</hi> was a great lover of Democracy. But I think he wrongs the Great Philoſopher: For he ſeems to me to be a lover of Monarchy, though I confeſs he ſeems to like an Elective Kingdom. See his Book of Polities; eſpecially Book III Chap. 14.</p>
+            <p>But be it as it will, we are ſure <hi>Ariſtotle,</hi> the School men, and Mr. <hi>Hooker,</hi> are all ours in this Controverſie.</p>
+            <p>And if Mr. <hi>Hooker</hi>'s Eighth Book be Authen<g ref="char:EOLhyphen"/>tick, as Publiſhed by Dr. <hi>Gaudon</hi> Biſhop of <hi>Exe<g ref="char:EOLhyphen"/>ter,</hi> I deſire no better Authority. See <hi>p.</hi> 190, <hi>&amp;c.</hi> He mentions and approves the old Axiom, <hi>Attri<g ref="char:EOLhyphen"/>buat Rex Legi, quod Lex attribuit es.</hi> And again, <hi>Rex non debeteſſe ſub homine, ſed ſub De<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; Leg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Whereas it is altogether without rea<g ref="char:EOLhyphen"/>ſon, that Kings are judged to have by virtue of their Dominion, though greater Power than any, yet not then all the States of thoſe Societies con<g ref="char:EOLhyphen"/>joyned, wherein ſuch Soveraign Rule is given them; there is not any thing hereunto to the con<g ref="char:EOLhyphen"/>trary by us affirmed; no not when we grant Su<g ref="char:EOLhyphen"/>pream Authority to Kings: Becauſe Supremacy is not otherwiſe intended or meant but to ex<g ref="char:EOLhyphen"/>clude partly Forreign Powers, and partly the Pow<g ref="char:EOLhyphen"/>er which belongeth in ſeveral unto others con<g ref="char:EOLhyphen"/>tained as parts in that Politick Body over which
+<pb n="9" facs="tcp:33307:6"/>thoſe Kings have Supremacy, <hi>&amp;c.</hi> It hath been declared already in general how <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bliſhed Dominion is, where the Law doth moſt Rule the King, <hi>&amp;c.</hi>
+            </p>
+            <p>Again, <hi>p.</hi> 192. Every Independent multitude before any certain form of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Eſtabliſhed, hath under God Supream Authority, full Domi<g ref="char:EOLhyphen"/>nion over it ſelf, even as a man not tied with the Band of Subjection as yet unto any other, hath over himſelf the like power, <hi>&amp;c.</hi> And, <hi>p.</hi> 103. That which we ſpeak of Kings, ſhall be in reſpect of the State, and according to the nature of this Kingdom, where the People are in no Subjection, but ſuch as willingly themſelves have condeſcen<g ref="char:EOLhyphen"/>ded unto for their own moſt behoof and Secu<g ref="char:EOLhyphen"/>rity. In Kingdoms therefore of this Quality, the Higheſt Governor hath indeed Univerſal Domi<g ref="char:EOLhyphen"/>nion, but with dependency upon that whole in<g ref="char:EOLhyphen"/>tire Body, over the ſeveral parts whereof he hath Dominion: So that it ſtandeth for an Axiom in this caſe the King is <hi>Major <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gulis, univer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Mi<g ref="char:EOLhyphen"/>nor,</hi> &amp;c Again, <hi>p.</hi> 195. The Axioms of our Regal Government are theſe, <hi>Lex facit R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gem Rex nihil poteſt niſi quod jure poteſt.</hi>
+            </p>
+            <p>I hope no man for the future, will deny that Mr. <hi>Hooker</hi> is of my Opinion, that all Govern<g ref="char:EOLhyphen"/>ment is Founded in Covenant.</p>
+            <p>I have other Authors, whom I ſhalt reſerve, till I have further Occaſion.</p>
+            <p>I ſhall at preſent only deſire two things of this Author. Firſt, I beg of him to ſhew how all Kings have received Power immediately from God: For I cannot apprehend his meaning.</p>
+            <p>
+               <hi>Secondly,</hi> In what manner the Laws of Provi<g ref="char:EOLhyphen"/>dence (of which he ſpeaks) are to be underſtood in Governing the Kingdoms of the Earth. Let him plainly and ſincerely declare his Judgment in theſe two Propoſitions and then we may poſſbly come to a right Underſtanding For verily theſe Notions ſeem to me like <hi>Aristotle</hi>'s Occult Qua<g ref="char:EOLhyphen"/>lities, or to border upon Enthuſiaſm.</p>
+            <p>And now to conclude, I am ſo confident of the truth of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Principles that I have, and will Sa<g ref="char:EOLhyphen"/>criſice all that is dear to Man for them: I am ſure they tend to the Glory of God, the propagation of the true Religion, the Honour and Safety of the King and Royal Family, and the happineſs and welfare of my Native Country. And if we may judge Principles to be true by their good Fruits, we ſee the generality of the Nation very well pleaſed, Fearing God, and Honouring the King. And if we have any Murmurers they are declared <hi>Papiſts.</hi> or Souls ſeduced and corrupted by the falſe Principle of <hi>Paſſive Obedience,</hi> or Diſcontented, Lewd and Ungovernable Men, for all other Proteſtants give God and the King thanks for this Deliverance. And though we have the vaſt Charge of a <hi>French</hi> War, and great and ſore In<g ref="char:EOLhyphen"/>conveniencies that attend divers particular Perſons thereby, yet no man of Senſe can be ignorant, that War cannot be maintained without Money. And therefore all Proteſtant Subjects and good Chriſtians bear the Charge freely without any Diſcontent, hoping and praying that God would give Succeſs to his Majeſties Armies, and Naval Forces; and that he would abate the Pride of that Monarch, who hath been the Scourge of <hi>Chriſtendom.</hi>
+            </p>
+            <p>And though I will not ſay, that this Author de<g ref="char:EOLhyphen"/>ſigned to move Sedition by this Hiſtory; yet (if he could not ſatis<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e his own Conſcience, and Swear Allegiance to King <hi>William</hi> and Queen <hi>Mary</hi>) I think he might have ſpared his great pains in this numerous Collection of Teſtimonies: For ſurely this Hiſtory doth not tend to the Reputation of ſome of the late Doctors of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and I have ſh<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed that the firſt Reformers preached no ſuch Doctrine: Inſomuch that I could imagine the Author of this Hiſtory to be ſome Sub<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le <hi>Jeſuit,</hi> perſonating a Proteſtant, on pur<g ref="char:EOLhyphen"/>poſe to expoſe the Nakedneſs of late Divines, who through Prejudice inſenſibly prepared the way to that which I am ſure they Abhorred, <hi>Po<g ref="char:EOLhyphen"/>pery,</hi> and Arbitrary power. But this which hath been the B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne of the King and Nation, and the Incendiary of all parties is now out of Doors. And we have a Gracious Soveraign whom God hath raiſed upon our great Diſtreſs, in pitty to his People, and Mercy to this Land. When the <hi>Popiſh</hi> Enemy would come in like a Flood, the Spirit of the Lord hath lift up a Standard againſt him. And our Prince is our Deliverer from hea<g ref="char:EOLhyphen"/>vy Burthens; our Reformer of great Corrupti<g ref="char:EOLhyphen"/>ons; the Phyſician of a Diſeaſed Church and State.</p>
+            <p>And if ſome little Men Murmur againſt <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> and <hi>Aaron,</hi> (like <hi>Corah</hi> and his Company) It is becauſe they prefer <hi>Egyptian</hi> Onions to the Dainties of <hi>Canaan.</hi> I hope the time is at hand, when Men may uſe this ſpeech in <hi>England,</hi> con<g ref="char:EOLhyphen"/>cerning the State, <hi>The Lord bleſs thee, O Habi<g ref="char:EOLhyphen"/>tation of Juſtice:</hi> And concerning the Church, <hi>The Lo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d bleſs thee. O Mountain of Holineſs.</hi> And it was the prayer of a good Man, that this Parliament (the repairer of Breeches; the reſto<g ref="char:EOLhyphen"/>rer of Paths to dwell in) by Loyalty to their Majeſties; Fidelity to the Kingdom, and Zeal to Religion, may be the joy of many Generations.
+<pb n="10" facs="tcp:33307:7"/>And I perſwade my ſelf, that he Loves and Ho<g ref="char:EOLhyphen"/>nours the King moſt, and fixeth the Crown Im<g ref="char:EOLhyphen"/>moveably upon him and his Poſterity, that wiſh<g ref="char:EOLhyphen"/>eth and endeavoureth for theſe things, though he renounce <hi>Paſſive Obedience.</hi>
+            </p>
+            <p>I am very ſenſible, that they who juſtifie a King's Proceedings, are in no great danger, tho they Err. But he that ſpeaks againſt Tyranny, if he ſlips in the leaſt, hath preſently Adverſaries that aggravate his humane Frailties. (For who Errs not in ſome things?)</p>
+            <p>Again, Truth in this Controverſie muſt be handled with all care and circumſpection imagi<g ref="char:EOLhyphen"/>nable, leſt we give Offence. Whereas, they who plead for the King, though never ſo weakly, are bold, and never Condemned for careleſs Expreſſi<g ref="char:EOLhyphen"/>ons. I may run great hazard in ſpeaking freely, though it be Truth. But I think a ſlaviſh Life is not worth enjoying. I am for no Peace with <hi>Rome:</hi> But may God's Church and the <hi>Engliſh</hi> Government for ever proſper. And I ſhall end with the ſaying of St. <hi>Auguſtin,</hi>
+               <q>
+                  <hi>Domine Deus, quaecun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> dixi, de tuo, agnoſ<g ref="char:EOLhyphen"/>cant &amp; tui: Siqua de meo, &amp; tu ignoſce, &amp; tui.</hi> Amen.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33307:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
